@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "cursor": 2,
+  "updated_at": "2026-10-18T04:21:20+00:00",
+  "items": [
+    {
+      "id": "en:Robotics",
+      "title": "Robotics",
+      "summary": "Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots. A roboticist is someone who specializes in robotics. Robotics usually combines four aspects of design work: a power source (e.g. a battery), mechanical construction, a control system (electrical circuits), and software (run by remote control or artificial intelligence). The goal of most robotics is to design machines that can assist humans in various fields, such as agriculture, construction, domestic work, food processing, inventory management, manufacturing, medicine, military, mining, space exploration, and transportation. Robots",
+      "source": "https://en.wikipedia.org/wiki/Robotics",
+      "lang": "en",
+      "fetched_at": "2026-10-18T04:21:20+00:00"
+    },
+    {
+      "id": "en:Artificial intelligence",
+      "title": "Artificial intelligence",
+      "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics, and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals. High-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, play and analysis in strategy games ",
+      "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "lang": "en",
+      "fetched_at": "2026-10-18T04:21:20+00:00"
+    }
+  ]
+}
