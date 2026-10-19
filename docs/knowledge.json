@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": 8,
-  "updated_at": "2026-10-19T03:49:17+00:00",
+  "cursor": 10,
+  "updated_at": "2026-10-19T15:49:52+00:00",
   "items": [
     {
       "id": "en:Robotics",
@@ -66,6 +66,22 @@
       "source": "https://en.wikipedia.org/wiki/Renewable_energy",
       "lang": "en",
       "fetched_at": "2026-10-19T03:49:17+00:00"
+    },
+    {
+      "id": "en:Human brain",
+      "title": "Human brain",
+      "summary": "The human brain is the central organ of the nervous system, and with the spinal cord, comprises the central nervous system. It consists of the cerebrum, the brainstem and the cerebellum. The brain controls most of the activities of the body, processing, integrating, and coordinating the information it receives from the sensory nervous system. The brain integrates sensory information and coordinates instructions sent to the rest of the body. The cerebrum, the largest part of the human brain, consists of two cerebral hemispheres. Each hemisphere has an inner core composed of white matter, and an outer surface – the cerebral cortex – composed of",
+      "source": "https://en.wikipedia.org/wiki/Human_brain",
+      "lang": "en",
+      "fetched_at": "2026-10-19T15:49:52+00:00"
+    },
+    {
+      "id": "en:Ocean",
+      "title": "Ocean",
+      "summary": "The ocean is the body of salt water that covers approximately 70.8% of Earth. The ocean is conventionally divided into large bodies of water, which are also referred to as oceans (in descending order by area: the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Antarctic/Southern Ocean, and the Arctic Ocean), and are themselves mostly divided into seas, gulfs, and subsequent bodies of water. The ocean contains 97% of Earth's water and is the primary component of Earth's hydrosphere, acting as a huge reservoir of heat for Earth's energy budget, as well as for its carbon cycle and water cycle, forming the basis for climate and weather p",
+      "source": "https://en.wikipedia.org/wiki/Ocean",
+      "lang": "en",
+      "fetched_at": "2026-10-19T15:49:52+00:00"
     }
   ]
 }
