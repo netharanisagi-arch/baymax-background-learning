@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": 12,
-  "updated_at": "2026-10-20T03:47:18+00:00",
+  "cursor": 14,
+  "updated_at": "2026-10-20T15:46:33+00:00",
   "items": [
     {
       "id": "en:Robotics",
@@ -98,6 +98,22 @@
       "source": "https://en.wikipedia.org/wiki/Photosynthesis",
       "lang": "en",
       "fetched_at": "2026-10-20T03:47:18+00:00"
+    },
+    {
+      "id": "en:Electric motor",
+      "title": "Electric motor",
+      "summary": "An electric motor is a machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate Lorentz force in the form of torque applied on the motor's shaft. An electric generator is mechanically identical to an electric motor but operates inversely, converting mechanical energy into electrical energy. Electric motors can be powered by direct current (DC) sources, such as from batteries or rectifiers, or by alternating current (AC) sources, such as a power grid, inverters or electrical generators. Electric moto",
+      "source": "https://en.wikipedia.org/wiki/Electric_motor",
+      "lang": "en",
+      "fetched_at": "2026-10-20T15:46:33+00:00"
+    },
+    {
+      "id": "en:Tokyo",
+      "title": "Tokyo",
+      "summary": "Tokyo, officially the Tokyo Metropolis, is the capital and most populous city of Japan. The population of the city proper was over 14 million as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the third-most populous metropolitan area in the world, with 33 million residents as of 2025. Lying at the head of Tokyo Bay, Tokyo is part of the Kantō region, on the central coast of Honshu, Japan's largest island. It is Japan's economic center and the seat of the Japanese government and the Emperor of Japan. The Tokyo Metropolitan Government administers Tokyo's central 23 special wards, which formerl",
+      "source": "https://en.wikipedia.org/wiki/Tokyo",
+      "lang": "en",
+      "fetched_at": "2026-10-20T15:46:33+00:00"
     }
   ]
 }
