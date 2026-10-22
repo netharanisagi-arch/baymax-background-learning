@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": 18,
-  "updated_at": "2026-10-21T15:49:05+00:00",
+  "cursor": 20,
+  "updated_at": "2026-10-22T03:47:47+00:00",
   "items": [
     {
       "id": "en:Robotics",
@@ -146,6 +146,22 @@
       "source": "https://en.wikipedia.org/wiki/Turtle",
       "lang": "en",
       "fetched_at": "2026-10-21T15:49:05+00:00"
+    },
+    {
+      "id": "en:Cat",
+      "title": "Cat",
+      "summary": "The cat (Felis catus), also called domestic cat and house cat, is a small domesticated carnivorous mammal. It is a member of Felidae, the family of mammals in the order Carnivora also colloquially referred to as cats. An obligate carnivore requiring a predominantly meat-based diet, it has retractable claws adapted to killing small prey species such as mice and rats. It has a strong, flexible body, quick reflexes, and sharp teeth, and its night vision and sense of smell are well developed. It is a social species, but a solitary hunter and a crepuscular predator. Cat communication includes meowing, purring, trilling, hissing, growling, grunting",
+      "source": "https://en.wikipedia.org/wiki/Cat",
+      "lang": "en",
+      "fetched_at": "2026-10-22T03:47:47+00:00"
+    },
+    {
+      "id": "en:Rainforest",
+      "title": "Rainforest",
+      "summary": "Rainforests are forests characterized by a closed and continuous tree canopy, moisture-dependent vegetation, the presence of epiphytes and lianas and the absence of wildfire. Rainforests can generally be classified as tropical rainforests or temperate rainforests, but other types have been described. Estimates vary from 40% to 75% of all biotic species being indigenous to the rainforests. There may be many millions of species of plants, insects and microorganisms still undiscovered in tropical rainforests. Tropical rainforests have been called the \"jewels of the Earth\" and the \"world's largest pharmacy\", because over one quarter of natural me",
+      "source": "https://en.wikipedia.org/wiki/Rainforest",
+      "lang": "en",
+      "fetched_at": "2026-10-22T03:47:47+00:00"
     }
   ]
 }
