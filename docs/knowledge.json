@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "cursor": 22,
-  "updated_at": "2026-10-22T15:48:05+00:00",
+  "cursor": 0,
+  "updated_at": "2026-10-23T03:47:20+00:00",
   "items": [
     {
       "id": "en:Robotics",
@@ -178,6 +178,22 @@
       "source": "https://en.wikipedia.org/wiki/Electric_battery",
       "lang": "en",
       "fetched_at": "2026-10-22T15:48:05+00:00"
+    },
+    {
+      "id": "en:World Wide Web",
+      "title": "World Wide Web",
+      "summary": "The World Wide Web (also known as WWW, W3, or simply the Web) is a global interconnected information system that enables content sharing over the Internet. It facilitates access to documents and other web resources according to specific rules of the Hypertext Transfer Protocol (HTTP). The Web was invented by English computer scientist Tim Berners-Lee while at CERN in 1989 and opened to the public in 1993. It was conceived as a \"universal linked information system\". Documents and other media content are made available to the network through web servers and can be accessed by programs such as web browsers. Servers and resources on the World Wid",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "lang": "en",
+      "fetched_at": "2026-10-23T03:47:20+00:00"
+    },
+    {
+      "id": "en:Language",
+      "title": "Language",
+      "summary": "Language is a structured system of communication that consists of grammar and vocabulary. It is the primary means by which humans convey meaning, both in spoken and signed forms, and may also be conveyed through writing. Human language is characterized by its cultural and historical diversity, with significant variations observed between cultures and across time. Human languages possess the properties of productivity and displacement, which enable the creation of an infinite number of sentences, and the ability to refer to objects, events, and ideas that are not immediately present in the discourse. The use of human language relies on social ",
+      "source": "https://en.wikipedia.org/wiki/Language",
+      "lang": "en",
+      "fetched_at": "2026-10-23T03:47:20+00:00"
     }
   ]
 }
