@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "cursor": 6,
-  "updated_at": "2026-10-24T15:44:06+00:00",
+  "cursor": 8,
+  "updated_at": "2026-10-25T03:47:02+00:00",
   "items": [
-    {
-      "id": "en:Computer science",
-      "title": "Computer science",
-      "summary": "Computer science is the study of computation, information, and automation, together with their associated phenomena. Included broadly in the sciences, computer science spans theoretical disciplines (such as algorithms, theory of computation, and information theory) to applied disciplines (including the design and implementation of hardware and software). An expert in the field is known as a computer scientist. Algorithms and data structures are central to computer science. The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. The fields of cryptography and computer sec",
-      "source": "https://en.wikipedia.org/wiki/Computer_science",
-      "lang": "en",
-      "fetched_at": "2026-10-19T03:49:17+00:00"
-    },
-    {
-      "id": "en:Renewable energy",
-      "title": "Renewable energy",
-      "summary": "Renewable energy (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, bioenergy/biomass, and hydropower. Bioenergy and geothermal power are also significant in some countries. Renewable energy installations can be large or small and are suited for both urban and rural areas. Renewable energy is often deployed together with further electrification. This has several benefits: electricity can move heat and vehicles efficiently and is clean at the point of consumption. Variable renewable energy sources are tho",
-      "source": "https://en.wikipedia.org/wiki/Renewable_energy",
-      "lang": "en",
-      "fetched_at": "2026-10-19T03:49:17+00:00"
-    },
     {
       "id": "en:Human brain",
       "title": "Human brain",
@@ -194,6 +178,22 @@
       "source": "https://en.wikipedia.org/wiki/Sri_Lanka",
       "lang": "en",
       "fetched_at": "2026-10-24T15:44:06+00:00"
+    },
+    {
+      "id": "en:Computer science",
+      "title": "Computer science",
+      "summary": "Computer science is the study of computation, information, and automation, together with their associated phenomena. Included broadly in the sciences, computer science spans theoretical disciplines (such as algorithms, theory of computation, and information theory) to applied disciplines (including the design and implementation of hardware and software). An expert in the field is known as a computer scientist. Algorithms and data structures are central to computer science. The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. The fields of cryptography and computer sec",
+      "source": "https://en.wikipedia.org/wiki/Computer_science",
+      "lang": "en",
+      "fetched_at": "2026-10-25T03:47:02+00:00"
+    },
+    {
+      "id": "en:Renewable energy",
+      "title": "Renewable energy",
+      "summary": "Renewable energy (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, bioenergy/biomass, and hydropower. Bioenergy and geothermal power are also significant in some countries. Renewable energy installations can be large or small and are suited for both urban and rural areas. Renewable energy is often deployed together with further electrification. This has several benefits: electricity can move heat and vehicles efficiently and is clean at the point of consumption. Variable renewable energy sources are tho",
+      "source": "https://en.wikipedia.org/wiki/Renewable_energy",
+      "lang": "en",
+      "fetched_at": "2026-10-25T03:47:02+00:00"
     }
   ]
 }
