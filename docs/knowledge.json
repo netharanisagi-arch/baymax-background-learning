@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "cursor": 10,
-  "updated_at": "2026-10-25T15:44:28+00:00",
+  "cursor": 12,
+  "updated_at": "2026-10-26T03:49:55+00:00",
   "items": [
-    {
-      "id": "en:Astronomy",
-      "title": "Astronomy",
-      "summary": "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. It uses mathematics, physics, and chemistry to explain their origin and their overall evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets. Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, astronomy studies everything that originates beyond Earth's atmosphere. Cosmology is the branch of astronomy that studies the universe as a whole. Astronomy is one of the oldest natural sci",
-      "source": "https://en.wikipedia.org/wiki/Astronomy",
-      "lang": "en",
-      "fetched_at": "2026-10-20T03:47:18+00:00"
-    },
-    {
-      "id": "en:Photosynthesis",
-      "title": "Photosynthesis",
-      "summary": "Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy—typically from sunlight—into the chemical energy necessary to fuel their metabolism. The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds (complex compounds containing carbon), typically carbohydrates like sugars (mainly glucose, fructose and sucrose), starches, phytoglycogen and cellu",
-      "source": "https://en.wikipedia.org/wiki/Photosynthesis",
-      "lang": "en",
-      "fetched_at": "2026-10-20T03:47:18+00:00"
-    },
     {
       "id": "en:Electric motor",
       "title": "Electric motor",
@@ -194,6 +178,22 @@
       "source": "https://en.wikipedia.org/wiki/Ocean",
       "lang": "en",
       "fetched_at": "2026-10-25T15:44:28+00:00"
+    },
+    {
+      "id": "en:Astronomy",
+      "title": "Astronomy",
+      "summary": "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. It uses mathematics, physics, and chemistry to explain their origin and their overall evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets. Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, astronomy studies everything that originates beyond Earth's atmosphere. Cosmology is the branch of astronomy that studies the universe as a whole. Astronomy is one of the oldest natural sci",
+      "source": "https://en.wikipedia.org/wiki/Astronomy",
+      "lang": "en",
+      "fetched_at": "2026-10-26T03:49:55+00:00"
+    },
+    {
+      "id": "en:Photosynthesis",
+      "title": "Photosynthesis",
+      "summary": "Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy—typically from sunlight—into the chemical energy necessary to fuel their metabolism. The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds (complex compounds containing carbon), typically carbohydrates like sugars (mainly glucose, fructose and sucrose), starches, phytoglycogen and cellu",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "lang": "en",
+      "fetched_at": "2026-10-26T03:49:55+00:00"
     }
   ]
 }
