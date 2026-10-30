@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "cursor": 4,
-  "updated_at": "2026-10-30T03:58:57+00:00",
+  "cursor": 6,
+  "updated_at": "2026-10-30T15:59:48+00:00",
   "items": [
-    {
-      "id": "en:Japan",
-      "title": "Japan",
-      "summary": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan, the Sea of Okhotsk in the north, and the East China Sea in the south. The Japanese archipelago consists of four major islands alongside over 14,000 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th",
-      "source": "https://en.wikipedia.org/wiki/Japan",
-      "lang": "en",
-      "fetched_at": "2026-10-24T15:44:06+00:00"
-    },
-    {
-      "id": "en:Sri Lanka",
-      "title": "Sri Lanka",
-      "summary": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, formerly known as Ceylon, is an island country in South Asia. It is located in the Indian Ocean, southwest of the Bay of Bengal, and is separated from India by the Gulf of Mannar and the Palk Strait. Sri Lanka shares a maritime border with the Maldives to the southwest and India to the northwest, and lies across the Bay of Bengal from Bangladesh and Myanmar to the northeast and the Andaman and Nicobar Islands of India to the east. Its executive and judicial capital is Colombo, which is also its largest city and the political, financial and cultural centre of the country; ne",
-      "source": "https://en.wikipedia.org/wiki/Sri_Lanka",
-      "lang": "en",
-      "fetched_at": "2026-10-24T15:44:06+00:00"
-    },
     {
       "id": "en:Computer science",
       "title": "Computer science",
@@ -194,6 +178,22 @@
       "source": "https://en.wikipedia.org/wiki/Earth",
       "lang": "en",
       "fetched_at": "2026-10-30T03:58:57+00:00"
+    },
+    {
+      "id": "en:Japan",
+      "title": "Japan",
+      "summary": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan, the Sea of Okhotsk in the north, and the East China Sea in the south. The Japanese archipelago consists of four major islands alongside over 14,000 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th",
+      "source": "https://en.wikipedia.org/wiki/Japan",
+      "lang": "en",
+      "fetched_at": "2026-10-30T15:59:48+00:00"
+    },
+    {
+      "id": "en:Sri Lanka",
+      "title": "Sri Lanka",
+      "summary": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, formerly known as Ceylon, is an island country in South Asia. It is located in the Indian Ocean, southwest of the Bay of Bengal, and is separated from India by the Gulf of Mannar and the Palk Strait. Sri Lanka shares a maritime border with the Maldives to the southwest and India to the northwest, and lies across the Bay of Bengal from Bangladesh and Myanmar to the northeast and the Andaman and Nicobar Islands of India to the east. Its executive and judicial capital is Colombo, which is also its largest city and the political, financial and cultural centre of the country; ne",
+      "source": "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "lang": "en",
+      "fetched_at": "2026-10-30T15:59:48+00:00"
     }
   ]
 }
