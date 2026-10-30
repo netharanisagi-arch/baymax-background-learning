@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "cursor": 2,
-  "updated_at": "2026-10-29T16:05:35+00:00",
+  "cursor": 4,
+  "updated_at": "2026-10-30T03:58:57+00:00",
   "items": [
-    {
-      "id": "en:Solar System",
-      "title": "Solar System",
-      "summary": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled. The Sun accounts for 99.86% of the Solar System's total mass. Inside the Sun's core, hydrogen is fused into helium, releasing energy that is emitted through the Sun's photosphere. This crea",
-      "source": "https://en.wikipedia.org/wiki/Solar_System",
-      "lang": "en",
-      "fetched_at": "2026-10-24T03:46:25+00:00"
-    },
-    {
-      "id": "en:Earth",
-      "title": "Earth",
-      "summary": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its ocean, which covers 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is dry land, which is predominantly located within Earth's land hemisphere in the form of continental landmasses. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmosphe",
-      "source": "https://en.wikipedia.org/wiki/Earth",
-      "lang": "en",
-      "fetched_at": "2026-10-24T03:46:25+00:00"
-    },
     {
       "id": "en:Japan",
       "title": "Japan",
@@ -194,6 +178,22 @@
       "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
       "lang": "en",
       "fetched_at": "2026-10-29T16:05:35+00:00"
+    },
+    {
+      "id": "en:Solar System",
+      "title": "Solar System",
+      "summary": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled. The Sun accounts for 99.86% of the Solar System's total mass. Inside the Sun's core, hydrogen is fused into helium, releasing energy that is emitted through the Sun's photosphere. This crea",
+      "source": "https://en.wikipedia.org/wiki/Solar_System",
+      "lang": "en",
+      "fetched_at": "2026-10-30T03:58:57+00:00"
+    },
+    {
+      "id": "en:Earth",
+      "title": "Earth",
+      "summary": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. This is made possible by Earth being an ocean world, the only one in the Solar System sustaining liquid surface water. Almost all of Earth's water is contained in its ocean, which covers 70.8% of Earth's crust. The remaining 29.2% of Earth's crust is dry land, which is predominantly located within Earth's land hemisphere in the form of continental landmasses. Most of Earth's land is at least somewhat humid and covered by vegetation, while large ice sheets at Earth's polar deserts retain more water than Earth's groundwater, lakes, rivers, and atmosphe",
+      "source": "https://en.wikipedia.org/wiki/Earth",
+      "lang": "en",
+      "fetched_at": "2026-10-30T03:58:57+00:00"
     }
   ]
 }
